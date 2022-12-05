@@ -33,7 +33,7 @@ package pack6;
 import pack6.subpack1.CCircle;
 import pack6.subpack2.CRectangle;
 import pack6.subpack1.subsubpack.CStyle;
-public class hw12_8
+public class Class08
 {
 	public static void main(String args[])
 	{
